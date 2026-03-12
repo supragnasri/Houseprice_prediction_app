@@ -27,3 +27,6 @@ The following models were trained and evaluated:
 - Linear Regression
 - Random Forest Regressor
 - XGBoost Regressor
+
+
+live app link:https://housepricepredictionapp-ldnye2zjfbjqcubeuw4hlx.streamlit.app/
